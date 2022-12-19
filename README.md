@@ -1,4 +1,7 @@
-##      Olá eu sou Leandro Arraes 🎓
+<div style="text-align: center">
+<h1>     Olá eu sou Leandro Arraes 🎓
+</div>
+
 -  Atualmente estou cursando o 3° módulo em Análise e Desenvolvimento de Sistemas no Senac Rj
 - Focado em aprender e praticar Java / Javascript /  Python
 
@@ -18,6 +21,7 @@
 ![blog](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![blog](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
 #
 
 ## Contato
