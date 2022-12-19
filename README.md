@@ -1,5 +1,5 @@
 <div style="text-align: center">
-<h1>     Olá eu sou Leandro Arraes 🎓
+<h1 style="text-align: center">     Olá eu sou Leandro Arraes 🎓
 </div>
 
 -  Atualmente estou cursando o 3° módulo em Análise e Desenvolvimento de Sistemas no Senac Rj
