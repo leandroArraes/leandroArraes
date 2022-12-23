@@ -7,7 +7,8 @@
 
 #
 ![leandro Arraes GitHub status](https://github-readme-stats.vercel.app/api?username=leandroArraes&theme=tokyonight)
-
+![blog](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&theme=blue-green)
+  
 #
 ## 💻 Tecnologias 
 
