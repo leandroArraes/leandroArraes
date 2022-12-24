@@ -8,7 +8,7 @@
 #
 
 ![](https://raw.githubusercontent.com/leandroArraes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/leandroArraes/github-stats/master/generated/overview.svg#gh-light-mode-only)  
+
   
 #
 ## 💻 Tecnologias 
