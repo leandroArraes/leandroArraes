@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes" />
 </a>
 <a href="https://github.com/leandroArraes/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=10&layout=compact&theme=tokyonight)" />
 </a>
 
 #
