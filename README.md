@@ -11,6 +11,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandroArraes&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=8&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/leandroArraes/github-readme-stats) 
+  
 #
   <picture>
 <source 
