@@ -7,10 +7,10 @@
 
 #
 <a href="https://github.com/leandroArraes/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes" />
 </a>
 <a href="https://github.com/leandroArraes/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes" />
 </a>
 
 #
