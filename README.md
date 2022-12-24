@@ -6,8 +6,10 @@
 - Focado em aprender e praticar Java / Javascript /  Python
 
 #
-<a href="https://github.com/leandroArraes/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes" />
+
+  
+<a href="https://github-readme-stats.vercel.app/api?username=leandroArraes">
+  <img align="center" src="https://github.com/leandroArraes/github-readme-stats" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=10&layout=compact&theme=tokyonight" />
