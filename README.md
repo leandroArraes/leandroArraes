@@ -9,7 +9,7 @@
 
   
 <a href="https://github-readme-stats.vercel.app/api?username=leandroArraes">
-  <img align="center" src="https://github.com/leandroArraes/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroArraes&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=10&layout=compact&theme=tokyonight" />
