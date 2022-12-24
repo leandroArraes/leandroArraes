@@ -6,10 +6,10 @@
 - Focado em aprender e praticar Java / Javascript /  Python
 
 #
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/leandroArraes/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/leandroArraes/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes&repo=convoychat" />
 </a>
 
