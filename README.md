@@ -7,24 +7,16 @@
 
 #
 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes&theme=tokyonight&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=10&layout=compact&theme=tokyonight" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandroArraes&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=8&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/leandroArraes/github-readme-stats) 
-  
 #
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=leandroArraes&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: tokyonight)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=leandroArraes&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=leandroArraes&show_icons=true" />
-</picture>
+  
   
 ## 💻 Tecnologias 
 
