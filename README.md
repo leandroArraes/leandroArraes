@@ -9,7 +9,7 @@
 
 ![leandro](https://raw.githubusercontent.com/leandroArraes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 #
 ## 💻 Tecnologias 
 
