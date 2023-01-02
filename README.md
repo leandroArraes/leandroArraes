@@ -3,7 +3,7 @@
 </div>
 
 -  Atualmente estou cursando o 3° módulo em Análise e Desenvolvimento de Sistemas no Senac Rj
-- Focado em aprender e praticar Java / Javascript /  Python
+- Atualmente Estudado --> Angular / Typescript /  Springboot
 
 #
 
