@@ -3,7 +3,7 @@
 </div>
 
 -  Atualmente estou cursando o 4/5º módulo em Análise e Desenvolvimento de Sistemas no Senac Rj
-- Atualmente Estudado --> Angular / Typescript
+- Atualmente Estudado --> React Native / Typescript
 
 #
 
