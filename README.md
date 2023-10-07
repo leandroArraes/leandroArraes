@@ -1,12 +1,12 @@
 <div style="text-align: center">
 <h1>     Olá eu sou Leandro Arraes 🎓
 </div>
-
-- Atualmente
--     Estou cursando o 4/5º módulo em Análise e Desenvolvimento de Sistemas no Senac Rj
--     Estagiando como Desenvolvedor FullStack Na G+P Soluções
--     Estudado --> React Native / Typescript / SpringBoot
--     
+<div>
+  <h3>Atualmente</h3>
+  <p>- Cursando o 4/5º módulo em Análise e Desenvolvimento de Sistemas no Senac Rj</p>
+  <p>- Estagiando como Desenvolvedor FullStack na G+P Soluções</p>
+  <p>- Estudado --> React Native / Typescript / SpringBoot</p>
+</div>     
 
 #
 
