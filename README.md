@@ -2,8 +2,11 @@
 <h1>     Olá eu sou Leandro Arraes 🎓
 </div>
 
--  Atualmente estou cursando o 4/5º módulo em Análise e Desenvolvimento de Sistemas no Senac Rj
-- Atualmente Estudado --> React Native / Typescript
+- Atualmente
+-     Estou cursando o 4/5º módulo em Análise e Desenvolvimento de Sistemas no Senac Rj
+-     Estagiando como Desenvolvedor FullStack Na G+P Soluções
+-     Estudado --> React Native / Typescript / SpringBoot
+-     
 
 #
 
