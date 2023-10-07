@@ -3,7 +3,7 @@
 </div>
 <div>
   <h3>Atualmente</h3>
-  <p>- Cursando o 4/5º módulo em Análise e Desenvolvimento de Sistemas no Senac Rj</p>
+  <p>- Graduando em Análise e Desenvolvimento de Sistemas no Senac Rj (4/5º Período)</p>
   <p>- Estagiando como Desenvolvedor FullStack na G+P Soluções</p>
   <p>- Estudado --> React Native / Typescript / SpringBoot</p>
 </div>     
