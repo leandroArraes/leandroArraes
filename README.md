@@ -1,12 +1,26 @@
 <div style="text-align: center">
-<h1>     Olá eu sou Leandro Arraes 🎓
-</div>
-<div>
-  <h3>Atualmente</h3>
-  <p>- Graduando em Análise e Desenvolvimento de Sistemas no Senac Rj (5/5º Período)</p>
-  <p>- Estagiando como Desenvolvedor FullStack na G+P Soluções</p>
-  <p>- Estudado --> Next Js / Prisma / SpringBoot</p>
-</div>     
+Olá, eu sou Leandro Arraes 🎓
+
+## Atualmente
+
+- Formado em Análise e Desenvolvimento de Sistemas pelo Senac RJ
+- Desenvolvedor FullStack na G+P Soluções
+- Stack atual: NestJS, Next.js
+- Atuando como desenvolvedor para uma empresa de desenvolvimento de software para construção civil e engenharia
+
+## Experiência
+
+- Mais de 2 de experiência em desenvolvimento FullStack
+- Projetos recentes: Gestão de Arquivos 
+- Disponível para trabalhar como PJ
+
+## Tecnologias
+
+- NestJS, Next.js, Prisma, SpringBoot
+- Java, Angular
+
+
+Fique à vontade para entrar em contato para discutir colaborações ou projetos interessantes!
 
 #
 
