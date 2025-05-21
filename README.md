@@ -18,6 +18,7 @@ Olá, eu sou Leandro Arraes 🎓
 
 - NestJS, Next.js, Prisma, SpringBoot
 - Java, Angular
+- PHP , Laravel
 
 
 Fique à vontade para entrar em contato para discutir colaborações ou projetos interessantes!
