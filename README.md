@@ -1,68 +1,113 @@
-<div style="text-align: center">
-Olá, eu sou Leandro Arraes 🎓
+<div align="center">
 
-## Atualmente
+# Leandro Arraes
+### Senior Full Stack Engineer & Tech Lead | Cloud & Distributed Systems
 
-- Formado em Análise e Desenvolvimento de Sistemas pelo Senac RJ
-- Desenvolvedor FullStack na G+P Soluções
-- Stack atual: NestJS, Next.js
-- Atuando como desenvolvedor para uma empresa de desenvolvimento de software para construção civil e engenharia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroarraes/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.arraes.182@gmail.com)
+[![Location](https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)](https://goo.gl/maps/riodejaneiro)
+[![Availability](https://img.shields.io/badge/Disponibilidade-CLT%20%7C%20PJ%20%7C%20Remoto-0f172a?style=for-the-badge)](mailto:leandro.arraes.182@gmail.com)
 
-## Experiência
-
-- Mais de 2 de experiência em desenvolvimento FullStack
-- Projetos recentes: Gestão de Arquivos 
-- Disponível para trabalhar como PJ
-
-## Tecnologias
-
-- NestJS, Next.js, Prisma, SpringBoot
-- Java, Angular
-- PHP , Laravel
-
-
-Fique à vontade para entrar em contato para discutir colaborações ou projetos interessantes!
-
-#
-
-  
-<a href="https://github-readme-stats.vercel.app/api?username=leandroArraes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroArraes&show_icons=true&theme=tokyonight" />
-</a>
-  
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=leandroArraes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&langs_count=10&layout=compact&theme=tokyonight" />
-</a>
-
-#
-  
-  
-## 💻 Tecnologias 
-
-<div style="display: inline_block"><br>
-	
-<img algin="center" alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img algin="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img algin="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-<img algin="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-<img algin="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-<img algin="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img algin="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img algin="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img algin="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img algin="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img algin="center" alt="Tailwids" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img algin="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img algin="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img algin="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img algin="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
 
-#
+---
 
-## Contato
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroarraes/)
-[![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leandro.arraes.182@gmail.com)
+### 👨‍💻 Sobre Mim / Resumo Profissional
 
+Desenvolvedor **Full Stack Sênior e Arquiteto de Soluções** com experiência no ciclo completo de engenharia corporativa, combinando arquiteturas modulares de alta escala à produtividade do ecossistema **TypeScript / Node.js (NestJS)** e à construção de interfaces modernas com **Next.js, React e Vue.js**.
 
+- 🚀 **Liderança Técnica & Produtos em Escala:** Atuação como PO Técnico e Tech Lead de produtos de alta criticidade (*Tá no Docs*, *Diário de Obras* e plataforma multi-SaaS), orquestrando microsserviços que processam **+500 mil requisições/mês com 99.9% de SLA**.
+- 💳 **Arquitetura SaaS & Faturamento:** Especialista em governança multi-tenancy, backoffices corporativos (Laravel/Filament) e integração completa de gateways financeiros (Asaas API v3, split de pagamentos e webhooks).
+- 🧪 **Engenharia de Qualidade (SQA):** Forte cultura de testes automatizados (Jest, Supertest, E2E), padrões de projeto (Clean Architecture, SOLID, Design Patterns) e pipelines CI/CD com Docker.
+- 🎓 **Formação de Alto Rendimento:** Aprovado no concorrido processo seletivo para o **Mestrado em Sistemas de Computação no IME (Instituto Militar de Engenharia)** e graduado em Análise e Desenvolvimento de Sistemas pelo **SENAC RJ**.
 
+---
+
+### 🛠️ Stack Tecnológica & Especialidades
+
+<div align="center">
+
+| Categoria | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Backend & APIs** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Frontend & UI/UX** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js_Nuxt-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Banco de Dados & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **DevOps & Infraestrutura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Testes & Qualidade (SQA)** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0f172a?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID_Principles-0f172a?style=flat-square) ![TDD / BDD](https://img.shields.io/badge/TDD%20%7C%20BDD-0f172a?style=flat-square) |
+
+</div>
+
+---
+
+### 💼 Produtos & Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Tá no Docs (SaaS Corporativo Construtech)</h4>
+      <p>Plataforma corporativa de engenharia e gestão documental com mais de 500 mil requisições/mês e SLA de 99.9%.</p>
+      <ul>
+        <li>Microsserviços em <strong>NestJS</strong> e modelagem avançada em <strong>PostgreSQL</strong> (+80 tabelas).</li>
+        <li>Interface reativa e intuitiva desenvolvida em <strong>Vue.js / Nuxt 3</strong>.</li>
+        <li>Isolamento multi-tenancy, controle granular de permissões (RBAC) e alta performance.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💳 Plataforma Multi-SaaS & Faturamento</h4>
+      <p>Ecossistema central de governança comercial para múltiplos produtos de grande porte com gateway Asaas.</p>
+      <ul>
+        <li>Backoffice desenvolvido em <strong>Laravel & Filament</strong> com dashboards de MRR e churn.</li>
+        <li>Cobranças recorrentes, emissão de boletos, PIX dinâmico e webhooks resilientes via <strong>Asaas API v3</strong>.</li>
+        <li>Matriz dinâmica de planos, combos e segregação de clientes B2B Enterprise.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ SextoAndar API Clone</h4>
+      <p>API RESTful de alta performance inspirada na governança e locação imobiliária.</p>
+      <ul>
+        <li>Arquitetura em camadas com <strong>NestJS</strong>, <strong>TypeScript</strong> e <strong>Prisma ORM</strong>.</li>
+        <li>Tratamento centralizado de exceções, validações com class-validator e DTOs tipados.</li>
+        <li>Modelagem relacional e queries otimizadas para alto volume de leitura.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛍️ E-Commerce & Catálogo de Produtos</h4>
+      <p>Arquitetura modular de vendas com regras de precificação, controle de estoque e auditoria.</p>
+      <ul>
+        <li>Desenvolvido com <strong>NestJS</strong>, <strong>PostgreSQL/MySQL</strong> e <strong>TypeScript</strong>.</li>
+        <li>Testes unitários e de integração estruturados com <strong>Jest</strong>.</li>
+        <li>Conteinerização completa com <strong>Docker</strong> e <strong>Docker Compose</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leandroArraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroArraes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="165" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandroArraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+---
+
+### 📬 Vamos Conversar?
+
+Seja para posições de liderança técnica, oportunidades de engenharia de software de alta escala ou colaborações estratégicas:
+
+- 💼 **LinkedIn:** [linkedin.com/in/leandroarraes](https://www.linkedin.com/in/leandroarraes/)
+- ✉️ **E-mail:** [leandro.arraes.182@gmail.com](mailto:leandro.arraes.182@gmail.com)
+- 📍 **Localização:** Rio de Janeiro, RJ - Brasil (Disponível para trabalho Remoto / Híbrido)
+
+<div align="center">
+  <sub>Construindo sistemas resilientes, código limpo e arquiteturas escaláveis.</sub>
+</div>
